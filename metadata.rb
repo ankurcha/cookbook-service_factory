@@ -1,4 +1,4 @@
-name             "service_factory"
+name             "bc_service_factory"
 maintainer       "BinaryBabel OSS"
 maintainer_email "projects@binarybabel.org"
 license          "Apache License, Version 2.0"
